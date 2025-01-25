@@ -1,5 +1,5 @@
 
-# Cryto$cope - Cryptocurrency Trend Tracker on Twitter (X)
+# Crypto$cope - Cryptocurrency Trend Tracker on Twitter (X)
 
 This Python script uses Selenium to scrape Twitter (X) for trending cryptocurrency mentions. It tracks the engagement (likes, comments, retweets, and poll votes) of tweets containing cashtags (e.g., `$BTC`, `$ETH`) and categorizes them into **large-cap cryptocurrencies** and **small-cap/meme coins**. The script then ranks the top 5 cryptocurrencies in each category based on total engagement.
 
